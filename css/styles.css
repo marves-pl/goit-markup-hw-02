@@ -66,11 +66,6 @@ color: #404bbf;
     color: #2e2f42;
 }
 
-.main-background {
-    background-color: #2e2f42;
-    width: 1440px;
-    height: 600px;
-}
 .main-topic-logo {
     font-weight: 700;
     font-size: 56px;
@@ -82,11 +77,6 @@ color: #404bbf;
 }
 
 .main-button {
-    display: flex;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-direction: row;
-    gap: 10px;
     border-radius: 4px;
     padding: 16px 32px;
     height: 56px;
