@@ -82,6 +82,25 @@ color: #404bbf;
 }
 
 .main-button {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 10px;
+    border-radius: 4px;
+    padding: 16px 32px;
+    width: 169px;
+    height: 56px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background: #4d5ae5;
+}
+
+.main-button:hover,
+.main-button:focus {
+    color: #404bbf;
+}
+
+.main-button-content {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
