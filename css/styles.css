@@ -40,8 +40,6 @@ color: #f4f4fd;
     color: #2e2f42;
 }
 
-
-
 .contacts {
 font-style: normal;    
 }
@@ -68,6 +66,9 @@ color: #404bbf;
     color: #2e2f42;
 }
 
+.main-background {
+    background: #2e2f42
+}
 .main-topic {
     font-weight: 700;
     font-size: 56px;
@@ -76,6 +77,14 @@ color: #404bbf;
     text-align: center;
     color: #fff;
 
+}
+
+.main-button {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
 }
 
 .main-section3-header {
