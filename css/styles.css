@@ -83,7 +83,7 @@ color: #404bbf;
     color: #fff;
 }
 
-[type='button'] {
+.efective-button {
     height: 56px;
     font-weight: 500;
     font-size: 16px;
@@ -97,8 +97,8 @@ color: #404bbf;
     padding: 16px 32px;
 }
 
-[type='button']:hover,
-[type='button']:focus {
+.efective-button:hover,
+.efective-button:focus {
     color: #404bbf;
 }
 
