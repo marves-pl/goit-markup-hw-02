@@ -82,7 +82,8 @@ color: #404bbf;
     text-align: center;
     color: #fff;
 }
-.efective-text {
+
+.efective-button {
     height: 56px;
     font-weight: 500;
     font-size: 16px;
@@ -90,8 +91,6 @@ color: #404bbf;
     letter-spacing: 0.04em;
     text-align: center;
     color: #fff;
-}
-.efective-button {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
     border-radius: 4px;
