@@ -130,10 +130,11 @@ color: #404bbf;
 
 .team-list {}
 
-.team-item {}
+.team-item {
+    background-color: #ffffff;
+}
 
 .team-image {
-    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
     background: #fff;
 }
 
