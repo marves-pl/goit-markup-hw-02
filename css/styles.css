@@ -118,7 +118,7 @@ color: #404bbf;
     background: #f4f4fd
 }
 
-.main-third-section-header {
+.team-subtitle {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
@@ -127,7 +127,16 @@ color: #404bbf;
     color: #2e2f42;
 }
 
-.main-third-section-content {
+.team-list {}
+
+.team-item {}
+
+.team-image {
+    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+    background: #fff;
+}
+
+.team-subtitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -135,6 +144,17 @@ color: #404bbf;
     text-align: center;
     color: #2e2f42;
 }
+
+.team-item-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
+
+/* -------- general -------  */
 
 .text {
     font-weight: 400;
