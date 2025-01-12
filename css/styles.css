@@ -125,6 +125,7 @@ color: #404bbf;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize
 }
 
 .team-list {}
@@ -143,6 +144,7 @@ color: #404bbf;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    background: #fff;
 }
 
 .team-item-text {
@@ -176,7 +178,7 @@ color: #404bbf;
     color: #f4f4fd;
 }
 
-.visually-hidden {
+/* .visually-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -188,5 +190,5 @@ color: #404bbf;
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
-}
+} */
 
